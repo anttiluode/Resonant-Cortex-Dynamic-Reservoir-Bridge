@@ -1,0 +1,15 @@
+# Resonant Cortex — Dependencies
+numpy>=1.24.0
+scipy>=1.10.0
+opencv-python>=4.8.0
+Pillow>=10.0.0
+matplotlib>=3.7.0
+
+# UI
+gradio>=4.44.0
+
+# Stable Diffusion (optional — install only if using --sd)
+# torch>=2.0.0
+# diffusers>=0.25.0
+# transformers>=4.30.0
+# accelerate>=0.25.0
