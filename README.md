@@ -1,5 +1,7 @@
 # Resonant Cortex — Dynamic Reservoir Bridge
 
+![pic](pic.png)
+
 ## Optical Flow → Crystal Oscillation → Spectral Phase Lock → Stable Diffusion
 
 **Antti Luode** — PerceptionLab, Finland  
